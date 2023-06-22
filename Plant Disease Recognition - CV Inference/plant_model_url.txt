@@ -1,0 +1,1 @@
+https://huggingface.co/spaces/agayabag/deploy_plant_disease_recognition/resolve/main/plant_model.h5
