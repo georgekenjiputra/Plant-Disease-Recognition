@@ -1,6 +1,6 @@
 # Plant Disease Recognition using Computer Vision
 
-![Image](https://storage.googleapis.com/kaggle-datasets-images/1447507/2394131/73fbc7b76132d02a1db874a860faf551/dataset-cover.png?t=2021-07-04-12-38-02)
+![Image](https://extension.umn.edu/sites/extension.umn.edu/files/marssonia-leaf-spot-on-euonymus-grabowski.jpg)
 
 ## Introduction
 
